@@ -18,6 +18,8 @@ class Pin extends Component {
 
     };
 
+    //
+
     
     render () {
         return (
